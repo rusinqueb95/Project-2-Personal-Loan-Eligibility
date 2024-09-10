@@ -91,5 +91,5 @@ Training Accuracy: 100%
 
 Testing Accuracy: 98.22%
 
-  - Our best-performing model, Random Forest Classifier, achieved an accuracy of X% on the test data.
+-Among the models evaluated, the Random Forest Classifier and Decision Tree achieved the highest testing accuracy, both surpassing 98%. Specifically, the Decision Tree attained a testing accuracy of 98.22%, while the Random Forest reached 98.13%. Both models demonstrated robust performance in predicting loan eligibility, fitting the training data almost perfectly. The slight difference in accuracy can be attributed to Random Forest's ensemble learning approach, which aggregates multiple decision trees to enhance accuracy and reduce overfitting.
   - The confusion matrix showed the model’s effectiveness at correctly predicting approved and rejected loans, with strong precision and recall scores for both classes.
