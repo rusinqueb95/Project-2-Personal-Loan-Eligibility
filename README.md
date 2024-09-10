@@ -64,18 +64,31 @@
 6. Model Evaluation
 - Evaluated model performance using accuracy, precision, recall, F1-score, and confusion matrix
 7. Results
+
   Model Performance Summary:
+
 Logistic Regression:
+
 Training Accuracy: 92.19%
+
 Testing Accuracy: 90.54%
+
 Random Forest Classifier:
+
 Training Accuracy: 100%
+
 Testing Accuracy: 98.13%
+
 Support Vector Machine (SVM):
+
 Training Accuracy: 93.85%
+
 Testing Accuracy: 91.39%
+
 Decision Tree:
+
 Training Accuracy: 100%
+
 Testing Accuracy: 98.22%
 
   - Our best-performing model, Random Forest Classifier, achieved an accuracy of X% on the test data.
