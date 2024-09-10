@@ -28,6 +28,9 @@
 - Scikit-learn: For model development, training, and evaluation.
 - Matplotlib & Seaborn: For data visualization and exploration.
 - Python: For scripting and implementing the machine learning pipeline.
+
+![allmports](https://github.com/user-attachments/assets/1348815a-243c-4504-a62b-570934e2a927)
+
 ## Methodology
 1. Data Collection
    - We sourced our dataset from Kaggle, containing over 1,000 records of personal loan applicants, including attributes such as credit scores, education level, annual income, and loan approval status.
