@@ -44,8 +44,15 @@
   - Implemented multiple machine learning models using Scikit-learn, including:
   - Logistic Regression
   - Random Forest Classifier
+  ![rfc1](https://github.com/user-attachments/assets/965626c7-7f31-4647-87f0-248e680d717f)
+  ![rfc2](https://github.com/user-attachments/assets/af5a0298-963e-4595-8f3f-23c6b3fbeb5b)
+
   - Support Vector Machine
+  ![svm model](https://github.com/user-attachments/assets/d36394af-943e-4769-9469-eabeff4a7385)
+
   - Decision Tree Classifier
+  ![dct1](https://github.com/user-attachments/assets/f8ce634c-76aa-4bb1-9b81-03d79c0f0d21)
+
 6. Model Evaluation
 - Evaluated model performance using accuracy, precision, recall, F1-score, and confusion matrix
 7. Results
