@@ -43,6 +43,9 @@
 5. Model Development
   - Implemented multiple machine learning models using Scikit-learn, including:
   - Logistic Regression
+
+  ![lr models](https://github.com/user-attachments/assets/8c15cc4d-2fea-415b-8e58-c42911c03b84)
+
   - Random Forest Classifier
   
   
@@ -63,6 +66,9 @@
 
 6. Model Evaluation
 - Evaluated model performance using accuracy, precision, recall, F1-score, and confusion matrix
+
+![f1socres](https://github.com/user-attachments/assets/b55a3c1d-3c54-4985-8368-897bdd101426)
+
 7. Results
 
   Model Performance Summary:
